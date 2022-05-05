@@ -56,4 +56,4 @@ def proverka (name_dict, name_text, name_write):
                 f_write.write(i + '\n')
                 print(i)
 
-proverka('words_alpha.txt','text1.txt','text2.txt')
+#proverka('words_alpha.txt','text1.txt','text2.txt')
